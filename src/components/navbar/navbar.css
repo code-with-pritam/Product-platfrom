@@ -1,0 +1,43 @@
+.navbar {
+    font-size: 15px;
+    margin-bottom: 2px;
+}
+
+.navbar-container {
+    background-color: black;
+    color: white;
+    display: grid;
+    grid-template-columns: 85% 5% 5% 5%;
+    padding: 10px 20px;
+}
+
+.product-span {
+    background-color: #fff;
+    color: black;
+}
+
+.profile-img {
+    border: px solid red;
+}
+
+.nav-select {
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+}
+
+.learn,
+.practice {
+    padding-top: 15px;
+}
+
+.profile-img {
+    border: 2px solid white;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-image: url("https://cdn-icons-png.flaticon.com/512/2919/2919906.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
